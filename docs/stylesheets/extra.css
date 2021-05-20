@@ -1,0 +1,15 @@
+:root {
+    --md-primary-fg-color:        #073877;
+    --md-primary-fg-color--light: #073877;
+    --md-primary-fg-color--dark:  #073877;
+  }
+
+img {
+  padding: 4px;
+  border: 1px solid silver;
+}
+
+
+a.md-logo > img {
+  border: 0;
+}

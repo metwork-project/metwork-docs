@@ -1,0 +1,32 @@
+site_name: MetWork Documentation
+site_url: http://docs.metwork.science
+
+markdown_extensions:
+  - admonition
+  - markdown_include.include
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+plugins:
+  - search
+
+theme:
+  name: material
+  favicon: images/favicon.svg
+  logo: images/metwork.png
+  features:
+    - navigation.expand
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Identification: identification.md
+  - Data:
+    - Prepare: data/prepare.md
+    - Upload: data/upload.md
+  - Project:
+    - Create: project/create.md
+    - Select reactions: project/reactions.md
+    - Fragmentation settings: project/fragmentation.md

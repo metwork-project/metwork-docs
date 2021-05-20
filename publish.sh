@@ -1,0 +1,1 @@
+rsync -a --del site/ metwork:/var/www/metwork-docs/
