@@ -11,17 +11,17 @@ You have 2 possibilities : as a guest or create your own user (recommanded).
 !!! warning
     All the data you provide as guest are publicly available and can be removed at anytime.
 
-Click on `Login` button, then click on *«I certify \[...\] soliciting business»* checkbox and click at `Login as guest` button.
+Click on <span class="status primary">Login</span>, then click on *«I certify \[...\] soliciting business»* checkbox and click on <span class="status warning">Login as guest</span>.
 
 ![Login as guest](/images/login-guest.png)
 
 
 ## Create a user
 
-Click on `New user` button, then fill the form with required infos :
+Click on <span class="status success">New user</span>, then fill the form with required infos :
 
 ![Create a user](/images/user-create.png)
 
-Then click on *«I certify \[...\] soliciting business»* checkbox and click at `Create User` button.
+Then click on *«I certify \[...\] soliciting business»* checkbox and click at <span  class="status success">Create User</span>.
 
-Once your user created, you can login with `Login` button.
+Once your user created, you can login with <span  class="status success">Login</span>.

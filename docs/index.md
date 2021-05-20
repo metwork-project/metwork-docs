@@ -4,13 +4,13 @@ Welcome to the documentation of [MetWork](https://metwork.pharmacie.parisdescart
 
 MetWork is a web app that help you to anticipate your MS/MS annotation with a workflow  based on simulation of bio-chemical transformations and *in-silico* fragmentation. 
 
-!!! info
+!!! info "Overview"
 
     For a global overview of the platform, you can have a look to [www.metwork.science](https://www.metwork.science) 
 
 This documentation is under construction and will be complete as things progress.
 
-!!! note
+!!! note "Citation"
 
     If you use MetWork please cite :
 

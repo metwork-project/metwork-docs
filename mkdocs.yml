@@ -27,6 +27,7 @@ nav:
     - Prepare: data/prepare.md
     - Upload: data/upload.md
   - Project:
-    - Create: project/create.md
-    - Select reactions: project/reactions.md
-    - Fragmentation settings: project/fragmentation.md
+    - Initialize: project/init.md
+    - Reactions: project/reactions.md
+    - Run: project/run.md
+    - Results: project/results.md

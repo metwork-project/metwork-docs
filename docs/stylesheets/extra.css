@@ -13,3 +13,35 @@ img {
 a.md-logo > img {
   border: 0;
 }
+
+.status {
+  color: #fff;
+  background-color: gray;
+  margin: .15rem .15rem;
+  padding: .15rem .35rem;
+  font-size: 0.65rem;
+  /* line-height: 1.5; */
+  border-radius: .15rem;
+  white-space: pre;
+}
+
+.status.primary {
+  color: #fff;
+  background-color: #073877;
+}
+
+.status.info {
+  background-color: #538bd6;
+}
+
+.status.success {
+  background-color: #409f40;
+}
+
+.status.warning {
+  background-color: #c89111;
+}
+
+.status.danger {
+  background-color: #c82b11;;
+}
