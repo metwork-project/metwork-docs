@@ -16,6 +16,7 @@ theme:
   logo: images/metwork.png
   features:
     - navigation.expand
+  custom_dir: overrides
 
 extra_css:
   - stylesheets/extra.css
